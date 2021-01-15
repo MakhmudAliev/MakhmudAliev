@@ -1,4 +1,4 @@
-### Hi there, my name is Makhmud Aliev! 👋
+# Hi there, my name is Makhmud Aliev! 👋
 
 I am pssionate about web-development and tech.
 
