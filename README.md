@@ -1,5 +1,18 @@
 ### Hi there, my name is Makhmud Aliev! 👋
 
+I am pssionate about web-development and tech.
+
+## 🛠  Here is my Tech Stack
+- HTML5 
+- CSS 
+- JavaScript (ES6)
+- Typescript
+- React
+- Redux
+- MongoDB
+- Node.JS / Express
+- IT Project Management
+
 <!--
 **MakhmudAliev/MakhmudAliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
