@@ -1,6 +1,6 @@
 # Hi there, my name is Makhmud Aliev! 👋
 
-I am pssionate about web-development and tech.
+I am passionate about web-development and tech.
 
 ## Here is my Tech Stack  🛠 
 - HTML5 
