@@ -4,12 +4,12 @@ I am passionate about web-development and tech.
 
 ## Here is my Tech Stack  🛠 
 - HTML5 
-- CSS 
+- CSS / SASS
 - JavaScript (ES6)
 - Typescript
 - React
-- Redux
-- MongoDB
+- Redux / Redux-thunk / Redux Saga
+- MongoDB / Mongoose
 - Node.JS / Express
 - IT Project Management
 
