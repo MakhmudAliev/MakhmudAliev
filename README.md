@@ -2,6 +2,11 @@
 
 I am passionate about web-development and tech.
 
+## My projects:
+- [Ride'n'Shine](https://ride-n-shine.herokuapp.com) - carpooling app (MERN + TypeScript + Google Maps API)
+- [Trello-like Task Manager](https://trello-react-redux.herokuapp.com) - Drag and drop task manager (MERN + TypeScript)
+- [Notes Keeper](https://react-notes-keeper.herokuapp.com/) - simple notes editing app (MERN)
+
 ## Here is my Tech Stack  🛠 
 - HTML5 
 - CSS / SASS
